@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.ComienzoActivity"
+    android:orientation="vertical"
+    android:background="#922a2a"
+    app:flow_horizontalAlign="center">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="70dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/interaccion" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/cabin_bold"
+        android:text="¡Explora la App!"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/cabin_bold"
+        android:text="@string/startDesc"
+        android:textAlignment="center"
+        android:textColor="#BABABA"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnEmpezar"
+        android:layout_width="180dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="#1a212f"
+        android:fontFamily="@font/poppins_semibold"
+        android:padding="8dp"
+        android:text="Empezar"
+        android:textSize="18sp"
+        app:cornerRadius="12dp" />
+</LinearLayout>

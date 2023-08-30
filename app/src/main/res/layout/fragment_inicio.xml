@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2e2e2e"
+    android:orientation="vertical"
+    tools:context="ui.inicio.InicioFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/backgroundscreens"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <!-- Logo del menú -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="30dp"
+                android:text="Categorías"
+                android:textColor="#fff"
+                android:textSize="22sp"
+                android:fontFamily="@font/cabin_bold"
+                android:textStyle="bold" />
+
+            <GridView
+                android:id="@+id/gvCategorias"
+                android:layout_width="match_parent"
+                android:layout_height="725dp"
+                android:layout_margin="8dp"
+                android:numColumns="1"
+                android:scrollbars="horizontal" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

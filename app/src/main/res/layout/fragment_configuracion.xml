@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_che"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/backgroundscreens"
+    tools:context=".ui.configuracion.ConfiguracionFragment">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="20sp"
+        android:layout_marginRight="20sp"
+        android:text="Notificaciones"
+        android:textColor="@color/white"
+        android:fontFamily="@font/cabin_bold"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_marginTop="10sp"
+            android:layout_marginRight="20sp"
+            android:layout_marginBottom="10sp"
+            android:textColor="@color/white"
+            android:text="Notificación por correo: "
+            android:fontFamily="@font/cabin"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/my_checkbox1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10sp"
+            android:buttonTint="#FFFFFF" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20sp"
+            android:textColor="@color/white"
+            android:layout_marginBottom="10sp"
+            android:text="Notificación por mensaje: "
+            android:fontFamily="@font/cabin"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/my_checkbox2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15sp"
+            android:buttonTint="#FFFDFD"
+            android:contentDescription="@null" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="10sp"
+        android:layout_marginRight="20sp"
+        android:textColor="@color/white"
+        android:text="Ayuda y Soporte Técnico"
+        android:fontFamily="@font/cabin_bold"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="10sp"
+        android:layout_marginRight="20sp"
+        android:textColor="@color/white"
+        android:layout_marginBottom="10sp"
+        android:text="Si experimenta algún problema durante el uso de la aplicación, por favor contáctenos a través del siguiente correo electrónico, adjuntando capturas de pantalla y detalles específicos que nos ayuden a comprender mejor el problema que está enfrentando. "
+        android:fontFamily="@font/cabin"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/ic_mail" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="60sp"
+            android:layout_marginBottom="10sp"
+            android:autoLink="email"
+            android:text="doncurruloappsoporte@gmail.com"
+            android:fontFamily="@font/cabin"
+            android:textColor="#922A2A"
+            android:textColorLink="#922A2A"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="10sp"
+        android:textColor="@color/white"
+        android:layout_marginRight="20sp"
+        android:text="Información"
+        android:fontFamily="@font/cabin_bold"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="10sp"
+        android:textColor="@color/white"
+        android:layout_marginRight="20sp"
+        android:layout_marginBottom="10sp"
+        android:fontFamily="@font/cabin"
+        android:text="Versión 1.2.1 "
+        android:textSize="18sp" />
+
+</LinearLayout>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundscreens"
+    android:orientation="vertical"
+    tools:context=".ui.DetallePlatoActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:id="@+id/bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="#922a2a"
+                app:navigationIcon="@drawable/ic_volver_atras"
+                app:title="Detalle del Plato"
+                app:titleTextColor="@color/white" />
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:elevation="8dp"
+                    app:cardCornerRadius="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:id="@+id/imgPlatoDetalle"
+                            android:layout_marginTop="10dp"
+                            android:layout_width="240dp"
+                            android:layout_height="180dp"
+                            android:layout_gravity="center"
+                            android:src="@drawable/food_image2" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/tvNamePlatoDetalle"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:layout_gravity="center"
+                                android:fontFamily="@font/cabin_bold"
+                                android:text="Pollo al Cilindro"
+                                android:textColor="#000"
+                                android:textSize="22sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/tvPrecioPlatoDetalle"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="10dp"
+                                android:layout_marginTop="8dp"
+                                android:fontFamily="@font/cabin_bold"
+                                android:text="S/. 35.90"
+                                android:textColor="#000"
+                                android:textSize="18sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/tvDescripcionPlatoDetalle"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="10dp"
+                                android:layout_marginTop="16dp"
+                                android:layout_marginEnd="10dp"
+                                android:layout_marginBottom="10dp"
+                                android:fontFamily="@font/cabin"
+                                android:justificationMode="inter_word"
+                                android:text="@string/descripcion_plato"
+                                android:textColor="#000"
+                                android:textSize="16sp" />
+                        </LinearLayout>
+                        <!-- Botones -->
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="60dp"
+                            android:layout_gravity="center"
+                            android:layout_marginBottom="10dp"
+                            android:orientation="horizontal">
+
+                            <com.google.android.material.button.MaterialButton
+                                android:id="@+id/btnAgregarCarrito"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginEnd="13dp"
+                                android:backgroundTint="#1a212f"
+                                android:fontFamily="@font/poppins_semibold"
+                                android:drawableEnd="@drawable/ic_add_shop"
+                                android:text="@string/add_shop"
+                                app:cornerRadius="16sp" />
+
+                            <ImageButton
+                                android:id="@+id/btnDecrementar"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/ic_remove_item"
+                                android:layout_marginTop="20dp"
+                                android:layout_marginLeft="30dp"
+                                android:layout_marginRight="10dp"
+                                android:background="#1a212f"
+                                android:contentDescription="@null" />
+
+                            <EditText
+                                android:id="@+id/edtCantidadP"
+                                android:fontFamily="@font/cabin"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:inputType="none"
+                                android:editable="false"
+                                android:focusable="false"
+                                android:clickable="false"
+                                android:textColor="@color/black"
+                                android:textAlignment="center"
+                                android:layout_marginEnd="8dp" />
+
+                            <ImageButton
+                                android:id="@+id/btnIncrementar"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/ic_add_item"
+                                android:layout_marginTop="20dp"
+                                android:layout_marginRight="10dp"
+                                android:background="#1a212f"
+                                android:contentDescription="@null" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </com.google.android.material.card.MaterialCardView>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</LinearLayout>

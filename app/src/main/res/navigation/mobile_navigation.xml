@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_inicio">
+
+    <fragment
+        android:id="@+id/nav_inicio"
+        android:name="com.example.appmovildoncurrulocilindro.ui.inicio.InicioFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_inicio" />
+
+    <fragment
+        android:id="@+id/nav_menu"
+        android:name="com.example.appmovildoncurrulocilindro.ui.menu.MenuFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_menu" />
+
+    <fragment
+        android:id="@+id/nav_compras"
+        android:name="com.example.appmovildoncurrulocilindro.ui.compras.ComprasFragment"
+        android:label="@string/menu_miscompras"
+        tools:layout="@layout/fragment_compras" />
+
+    <fragment
+        android:id="@+id/nav_cuentaconfig"
+        android:name="com.example.appmovildoncurrulocilindro.ui.cuentaconfg.CuentaConfiguracionFragment"
+        android:label="@string/menu_miconfig"
+        tools:layout="@layout/fragment_cuenta_configuracion" />
+
+    <fragment
+        android:id="@+id/nav_configuracion"
+        android:name="com.example.appmovildoncurrulocilindro.ui.configuracion.ConfiguracionFragment"
+        android:label="@string/menu_configuracion"
+        tools:layout="@layout/fragment_configuracion" />
+
+</navigation>

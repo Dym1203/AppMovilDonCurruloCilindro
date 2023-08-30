@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alata</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/amaranth_bold</item>
+        <item>@font/archivo_black</item>
+        <item>@font/baloo</item>
+        <item>@font/baloo_tamma</item>
+        <item>@font/black_han_sans</item>
+        <item>@font/cabin</item>
+        <item>@font/cabin_bold</item>
+        <item>@font/poppins_medium</item>
+        <item>@font/ubuntu_light</item>
+    </array>
+</resources>

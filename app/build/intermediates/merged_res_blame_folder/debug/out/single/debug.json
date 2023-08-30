@@ -1,0 +1,826 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_platos_carrito.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_platos_carrito.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_abrir.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\abrir.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "com.example.appmovildoncurrulocilindro.app-merged_res-41:/layout_activity_minijuego.xml.flat",
+        "source": "com.example.appmovildoncurrulocilindro.app-main-43:/layout/activity_minijuego.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_calendar.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_fragment_inicio.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_web_comprobante.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_web_comprobante.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_home_white.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_home_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_item_detalle_mis_compras.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_detalle_mis_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_promos.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_promos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_detalle_plato.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_detalle_plato.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_comienzo.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_comienzo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_logotipo.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\logotipo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_mode_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_mode_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_pantalla_carga.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_pantalla_carga.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_cerrar.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\cerrar.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_phone_iphone_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_phone_iphone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_menucomida.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\menucomida.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_detalle_mis_compras.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_detalle_mis_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_custom_toast_ok.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\custom_toast_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_room_service_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_room_service_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_menu_carta.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_menu_carta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_comprobante_venta.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_comprobante_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_item_platos_por_categoria.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_platos_por_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\menu_inicio.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\menu\\inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_registerback.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\registerback.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_fondohojas.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\fondohojas.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_la1.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\la1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_item_mis_compras.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_mis_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_add_item.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_add_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_fragment_promos.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_promos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_user.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_skip_next_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_skip_next_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_add_shop.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_add_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_fragment_categoria.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_createakount.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\createakount.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_bg_overlay.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\bg_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_entregado.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\entregado.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_bolsa_compras.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_bolsa_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_salir.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_salir.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_borde_redondeado.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\borde_redondeado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable-v24_menu.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable-v24\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_backgroundscreens.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\backgroundscreens.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_crearcuenta.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\crearcuenta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_cc.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\cc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_arrow_downward_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_arrow_downward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_fragment_suscripcion.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_suscripcion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_registrar_pedidos.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_registrar_pedidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_tiempo.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\tiempo.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_whatsapp.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_recuperarcontra.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\recuperarcontra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\anim_down_out.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\anim\\down_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_logocurrulo.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\logocurrulo.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\anim_rigth_in.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\anim\\rigth_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\font_black_han_sans.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\font\\black_han_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_slider_screen.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\slider_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_la2.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\la2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_fragment_libreria.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_libreria.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_email.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\anim_to_bottom_anim.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\anim\\to_bottom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_password_dialog.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\password_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\font_ubuntu_light.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\font\\ubuntu_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_image_not_found.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\image_not_found.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_fondocomprobante.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\fondocomprobante.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_minigame.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\minigame.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_icon_clave.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\icon_clave.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_compras.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\menu_pantalla_menu_negocio.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\menu\\pantalla_menu_negocio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_dylanuser.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\dylanuser.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_pendiente.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\pendiente.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_money.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_money.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\font_cabin_bold.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\font\\cabin_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_item_categorias.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_categorias.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_newbacklogin.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\newbacklogin.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_money_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_money_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_phone_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_back2.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\back2.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_la3.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\la3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_mejor.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\mejor.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\menu_activity_inicio_drawer.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\menu\\activity_inicio_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_la6.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\la6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\anim_above_out.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\anim\\above_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_web_reporte.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_web_reporte.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_nav_header_inicio.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\nav_header_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_custom_toast_error.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\custom_toast_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_pago_pedido.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_pago_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\anim_down_in.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\anim\\down_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_success_dialog.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\success_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\font_archivo_black.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\font\\archivo_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_recover_password.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_recover_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_more.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_fragment_configuracion.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_configuracion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\menu_boton_menu.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\menu\\boton_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_la5.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\la5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_content_inicio.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\content_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_item_promociones.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_promociones.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_volver_atras.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_volver_atras.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_app_bar_inicio.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\app_bar_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_image_slider_layout_item.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\image_slider_layout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable-v24_usuario.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable-v24\\usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_recoverpassword.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\recoverpassword.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_exito.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\exito.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_inicio.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\anim_rigth_out.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\anim\\rigth_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_reportes_negocio.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_reportes_negocio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\anim_rotate_open_anim.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\anim\\rotate_open_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\font_baloo_tamma.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\font\\baloo_tamma.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_reporte.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\reporte.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_horario.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\horario.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_la4.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\la4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_food_image3.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\food_image3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_listado_pedidos.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_listado_pedidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_mail.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_check_circle.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_fragment_menu.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\menu_menu_principal.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\menu\\menu_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\anim_rotate_close_anim.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\anim\\rotate_close_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_domain_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_domain_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-pngs-36:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_la7.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\la7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_info.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_interaccion.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\interaccion.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_fragment_compras.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_listar_platos_por_categoria.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_listar_platos_por_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_comida.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\comida.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_desactivation_dialog.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\desactivation_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\font_alata.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\font\\alata.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_baseline_hotel_class_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\baseline_hotel_class_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_item_platos.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_platos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_comprobante.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\comprobante.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_doncurrulo.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\doncurrulo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_bienvenido.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\bienvenido.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_fragment_cuenta_configuracion.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_cuenta_configuracion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_check_circle_green.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\check_circle_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_food_image2.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\food_image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\font_amaranth_bold.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\font\\amaranth_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_fondo.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\fondo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable-v24_promociones.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable-v24\\promociones.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_fila_pedidos.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fila_pedidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_borrar.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_borrar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\anim_from_bottom_anim.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\anim\\from_bottom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\font_poppins_semibold.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\font\\poppins_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_cuadro_dialog.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\cuadro_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_login.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_topback.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\topback.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable-v24_entrega.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable-v24\\entrega.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\anim_left_in.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\anim\\left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_loginblack.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\loginblack.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_repartidor.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\repartidor.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_remove_item.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_remove_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_rating_orange_small.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\rating_orange_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\menu_pantalla_promociones.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\menu\\pantalla_promociones.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_bienvenida.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_bienvenida.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\anim_above_in.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\anim\\above_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_error.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\font_alfa_slab_one.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\font\\alfa_slab_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_fotoperfilcircle.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\fotoperfilcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\font_cabin.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\font\\cabin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_item_platos_carrito.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_platos_carrito.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_fragment_opciones.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_opciones.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\anim_left_out.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\anim\\left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\font_baloo.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\font\\baloo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\font_poppins_medium.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\font\\poppins_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_delivery.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\delivery.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_la0.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\la0.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_add.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_food_image1.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\food_image1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_activity_minijuego.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_minijuego.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\layout_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_newbackregister.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\newbackregister.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-merged_res-41:\\drawable-v24_pedidos.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\drawable-v24\\pedidos.png"
+    }
+]

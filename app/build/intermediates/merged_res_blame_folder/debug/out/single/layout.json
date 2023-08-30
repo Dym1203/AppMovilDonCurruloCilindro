@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\cuadro_dialog.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\cuadro_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\item_platos_carrito.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_platos_carrito.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\fragment_promos.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_promos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\item_detalle_mis_compras.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_detalle_mis_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\fragment_categoria.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\fragment_suscripcion.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_suscripcion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_comienzo.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_comienzo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_recover_password.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_recover_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\desactivation_dialog.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\desactivation_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_inicio.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_detalle_mis_compras.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_detalle_mis_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\item_mis_compras.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_mis_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_comprobante_venta.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_comprobante_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_bienvenida.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_bienvenida.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_web_reporte.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_web_reporte.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\item_categorias.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_categorias.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_listar_platos_por_categoria.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_listar_platos_por_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\app_bar_inicio.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\app_bar_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\fragment_menu.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_pago_pedido.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_pago_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\item_promociones.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_promociones.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_minijuego.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_minijuego.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_platos_carrito.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_platos_carrito.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\fragment_inicio.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\nav_header_inicio.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\nav_header_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\custom_toast_error.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\custom_toast_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_listado_pedidos.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_listado_pedidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\dropdown_item.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\item_platos.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_platos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\fila_pedidos.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fila_pedidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\fragment_configuracion.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_configuracion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\fragment_opciones.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_opciones.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\item_platos_por_categoria.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\item_platos_por_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\fragment_compras.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_pantalla_carga.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_pantalla_carga.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\fragment_libreria.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_libreria.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\image_slider_layout_item.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\image_slider_layout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_web_comprobante.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_web_comprobante.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\fragment_cuenta_configuracion.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\fragment_cuenta_configuracion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_detalle_plato.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_detalle_plato.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\custom_toast_ok.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\custom_toast_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_reportes_negocio.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_reportes_negocio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\content_inicio.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\content_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\slider_screen.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\slider_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\password_dialog.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\password_dialog.xml"
+    },
+    {
+        "merged": "com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:/layout/activity_minijuego.xml",
+        "source": "com.example.appmovildoncurrulocilindro.app-main-43:/layout/activity_minijuego.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\success_dialog.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\success_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-mergeDebugResources-40:\\layout\\activity_registrar_pedidos.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.appmovildoncurrulocilindro.app-main-43:\\layout\\activity_registrar_pedidos.xml"
+    }
+]

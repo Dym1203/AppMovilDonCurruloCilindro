@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Don Currulo App</string>
+    <string name="btn_Juego_Reinit">Reiniciar</string>
+    <string name="btn_Juego_Quit">Salir</string>
+    <string name="txtEmail">Correo Electrónico</string>
+    <string name="txtClave">Contraseña</string>
+    <string name="btnLogin">Iniciar Sesión</string>
+    <string name="btnRecuperarpass">¿Olvidaste tu contraseña?</string>
+    <string name="txtRegistrate">Registrarse</string>
+
+    <string name="textNom">Nombres</string>
+    <string name="textApe">Apellidos</string>
+    <string name="textTipodoc">Tipo de Documento</string>
+    <string name="textNroDoc">N° Documento</string>
+    <string name="textTel">Teléfono</string>
+    <string name="textConfirmar">Confirmar Contraseña</string>
+    <string name="caracteres">8 caracteres como mínimo</string>
+    <string name="condicion">Al registrarse autoriza el tratamiento de sus datos personales</string>
+    <string name="btnConfirmar">Confirmar</string>
+
+    <string name="textproceso">Proceso realizado con éxito</string>
+    <string name="textpedido">¡Su pedido se ha realizado exitosamente!</string>
+    <string name="textiempo">Tiempo de Espera:</string>
+    <string name="textminutos">30 MINUTOS</string>
+    <string name="textcomprobante">ACEPTAR</string>
+    <string name="textcomprahecha">¡Gracias por su compra!</string>
+
+    <string name="registro_de_pedidos">Registro de Pedidos</string>
+    <string name="todo">TODO</string>
+    <string name="pedido">Pedido</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="textconsentimiento">Otorgo el consentimiento para utilizar los datos registrados en la aplicación con el fin de generar un informe de negocio personalizado para su empresa. Si está de acuerdo con este uso de los datos, marque el casillero a su lado.
+    </string>
+    <string name="textregresar"><u>REGRESAR</u></string>
+
+    <string name="screen1">¡Bienvenido a Don Currulo App!</string>
+    <string name="screen2">¿Se te antoja algo para comer?</string>
+    <string name="screen3">¡Recíbelo en minutos!</string>
+    <string name="screen1desc">Sumérgete en la experiencia de Don Currulo Cilindro desde tu móvil.</string>
+    <string name="screen2desc">Deléitate con nuestra amplia variedad de platos, desde Pollos al Cilindro hasta exquisita Comida Marina.</string>
+    <string name="screen3desc">Entrega de comida a domicilio en un instante, garantizando la frescura.</string>
+    <string name="startDesc">¿Ya te decidiste? Descubre nuestra excelencia en calidad y prestigio. Experimenta nuestros servicios de primer nivel y atención personalizada.</string>
+
+    <string name="textdppagar">Al registrar el pedido autoriza el tratamiento de sus datos personales.</string>
+    <string name="textfentrega">Forma de Entrega</string>
+    <string name="textdentrega">Dirección donde enviaremos tu pedido</string>
+    <string name="textmpago">Método de Pago</string>
+    <string name="textpdescuentos">Deseo recibir promociones y descuentos exclusivos.</string>
+    <string name="texttcondiciones">Acepto los Términos y Condiciones.</string>
+
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Marie Dupoint</string>
+    <string name="nav_header_subtitle">mariedupoint@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cerrar sesión</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Carta</string>
+    <string name="menu_slideshow">Promociones</string>
+    <string name="menu_miscompras">Mis Compras</string>
+    <string name="menu_miconfig">Cuenta</string>
+    <string name="menu_configuracion">Configuración</string>
+    <string name="menu_categoria">Categorías</string>
+
+    <string-array name="tipoDoc">
+        <item>DNI</item>
+        <item>Pasaporte</item>
+        <item>RUC</item>
+        <item>Carnet de Extranjería</item>
+    </string-array>
+
+    <string-array name="ditrito">
+        <item>Bellavista</item>
+        <item>La Perla</item>
+        <item>La Punta</item>
+        <item>Ventanilla</item>
+        <item>San Miguel</item>
+        <item>San Martin de Porres</item>
+    </string-array>
+
+    <string name="descripcion_plato">Es una curiosa forma de preparación 100% peruana, usando cilindros de metal donde se cuelga en ganchos los trozos de carne de pollo sazonados que se cocinan usando carbón.</string>
+    <string name="add_shop">AÑADIR</string>
+    <string name="comprar_p">COMPRAR</string>
+
+    <string name="friesIngredients">Maggi Noodles
+    \nWater
+    \nMaggi Masala</string>
+
+</resources>

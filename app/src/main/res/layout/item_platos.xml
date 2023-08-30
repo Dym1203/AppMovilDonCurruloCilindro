@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:elevation="5dp"
+        android:backgroundTint="#922a2a"
+        app:cardCornerRadius="10dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgPlato"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/food_image2" />
+
+        <RelativeLayout
+            android:layout_width="250dp"
+            android:layout_height="110dp"
+            android:layout_gravity="end"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/namePlato"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/cabin_bold"
+                android:text="Pollo al Cilindro"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/iv1"
+                android:layout_width="120dp"
+                android:layout_height="18dp"
+                android:layout_below="@id/namePlato"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/rating_orange_small" />
+
+            <TextView
+                android:id="@+id/precioPlato"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/iv1"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/cabin_bold"
+                android:text="S/. 35.90"
+                android:textColor="#BABABA"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/btnOrdenar"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:backgroundTint="#FF8500"
+                android:fontFamily="@font/poppins_semibold"
+                android:text="Ordenar"
+                android:textColor="#fff"
+                android:textSize="11sp"
+                android:textStyle="bold"
+                app:cornerRadius="16sp" />
+
+        </RelativeLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>
